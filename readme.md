@@ -7,7 +7,7 @@
 
 ### How do I implement this hook
 
-1. Copy this script
+1. Copy script content
 2. Go to your project folder
 3. Type: cd .git/hooks
 4. Open file pre-commit.sample in a text editor
